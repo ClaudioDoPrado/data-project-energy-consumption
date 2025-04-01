@@ -1,3 +1,7 @@
+-- Apresentation,  https://docs.google.com/presentation/d/1arC_jUv39PDcYOUJvnvfGIjmFNGcMwCdSXuWBpGpwjs/edit#slide=id.g346215e72f0_0_5
+
+-- Trello, https://trello.com/b/Hcj2fgQp/durmstrang
+
 use energy_stats;
 
 -- Total Population and Area by Region:
